@@ -35,3 +35,4 @@ See the following resources to learn more about using the theme:
 - [Deploying the site](https://github.com/adobe/aio-theme#deploy-to-azure-storage-static-websites) _(Adobe employees only)_
 
 If you have questions, open an issue and ask us. We look forward to hearing from you!
+Created by Jason Scott Heise
